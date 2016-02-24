@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Edwin Garcia edwgarci@gmail.com @edwgarci
 
 # THANKS
 
